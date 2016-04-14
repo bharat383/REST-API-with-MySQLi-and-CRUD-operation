@@ -9,9 +9,13 @@ Bharat Parmar
 
 # File Structure :
 1) config.php  : Configuration File 
+
 2) bharatcode.sql : Database File.
+
 3) class/Main.class.php : Main class file which contains many usefull methods for database operations, mail sending, validation.
+
 4) rest/.htaccess : HTACCESS file for the URL redirection
+
 5) rest/Rest.inc.php : This class file contains REST Standard basis api related methods.
 
 
